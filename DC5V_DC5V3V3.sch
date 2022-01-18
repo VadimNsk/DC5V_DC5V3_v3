@@ -718,7 +718,7 @@ AR Path="/62F3D8A0/61BF0BAB" Ref="J?"  Part="1"
 AR Path="/61A27519/61BF0BAB" Ref="J?"  Part="1" 
 F 0 "J2" H 6050 1725 50  0000 C CNN
 F 1 "Vout2" H 6025 1325 50  0000 C CNN
-F 2 "Modules:PinHeader_1x03_P2.54mm_Horizontal" H 6050 1525 50  0001 C CNN
+F 2 "Modules:PinHeader_1x03_P2.54mm_Horizontal_short" H 6050 1525 50  0001 C CNN
 F 3 "~" H 6050 1525 50  0001 C CNN
 	1    6050 1525
 	1    0    0    -1  
@@ -738,7 +738,7 @@ AR Path="/62F3D8A0/61B54CED" Ref="J?"  Part="1"
 AR Path="/61A27519/61B54CED" Ref="J?"  Part="1" 
 F 0 "J1" H 5175 1725 50  0000 C CNN
 F 1 "Vout1" H 5175 1225 50  0000 C CNN
-F 2 "Modules:PinHeader_1x04_P2.54mm_Horizontal" H 5175 1525 50  0001 C CNN
+F 2 "Modules:PinHeader_1x04_P2.54mm_Horizontal_short" H 5175 1525 50  0001 C CNN
 F 3 "~" H 5175 1525 50  0001 C CNN
 	1    5175 1525
 	1    0    0    -1  
