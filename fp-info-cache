@@ -1,4 +1,4 @@
-19394009249882177
+19410403255257767
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56364,6 +56364,48 @@ ADS1115mod
 10
 10
 Modules
+ADuM_I2C
+
+
+0
+12
+12
+Modules
+ADuM_I2C_Horizontal
+
+
+0
+12
+12
+Modules
+ADuM_I2C_Horizontal_SMD
+
+
+0
+12
+12
+Modules
+ADuM_I2C_Horizontal_SMD_wo3D
+
+
+0
+12
+12
+Modules
+ADuM_I2C_Horizontal_wo3D
+
+
+0
+12
+12
+Modules
+ADuM_I2C_wo3D
+
+
+0
+12
+12
+Modules
 AP3216C
 AP3216C цифровой датчик приближения и внешнего освещения
 
@@ -56511,6 +56553,13 @@ DC5V_DC5V3V3_v3
 7
 7
 Modules
+DC5V_DC5V3V3_v3_wo3D
+
+
+0
+7
+7
+Modules
 DC12003
 
 
@@ -56519,6 +56568,13 @@ DC12003
 4
 Modules
 DC12003_Horizontal
+
+
+0
+4
+4
+Modules
+DC12003_wo3D
 
 
 0
@@ -56770,6 +56826,13 @@ Through hole pin header THT 1x03 2.54mm single row
 3
 3
 Modules
+PinHeader_1x03_P2.54mm_Vertical_for_DG301-5.0-02P_wo3D
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+Modules
 PinHeader_1x04_P2.54mm_Horizontal
 Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
 Through hole angled pin header THT 1x04 2.54mm single row
@@ -56797,6 +56860,13 @@ Through hole pin header THT 1x09 2.54mm single row
 0
 9
 9
+Modules
+PinHeader_2x02_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x02, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x02 1.27mm double row
+0
+4
+4
 Modules
 Power_analyzer
 
